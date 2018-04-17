@@ -1,0 +1,4 @@
+Large Animal Thermometer
+Veterinary Large Animal Digital Thermometer accurately displays temperatures in Fahrenheit. 
+189.65
+"Normal" temperatures for cattle, pigs, sheep, horses and dogs listed on back of display. 
